@@ -1,4 +1,4 @@
-# Redux Simple Youtube Search
+# React Youtube Search APP
 React Youtube App using ES6 and Class component to search videos using Youtube.
 
 ###Getting Started###
