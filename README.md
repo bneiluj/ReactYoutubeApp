@@ -1,5 +1,5 @@
 # Redux Simple Youtube Search
-Simple react app using ES6 and Class component to search videos using Youtube.
+React Youtube App using ES6 and Class component to search videos using Youtube.
 
 ###Getting Started###
 Checkout this repo, install depdencies, then start the gulp process with the following:
